@@ -37,6 +37,8 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
+            txtKQ = new TextBox();
+            label4 = new Label();
             SuspendLayout();
             // 
             // btnChia
@@ -116,11 +118,29 @@
             label1.TabIndex = 5;
             label1.Text = "THỰC HIỆN PHÉP TOÁN";
             // 
+            // txtKQ
+            // 
+            txtKQ.Location = new Point(622, 338);
+            txtKQ.Name = "txtKQ";
+            txtKQ.Size = new Size(153, 27);
+            txtKQ.TabIndex = 12;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(661, 287);
+            label4.Name = "label4";
+            label4.Size = new Size(72, 20);
+            label4.TabIndex = 13;
+            label4.Text = "KẾT QUẢ:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(812, 516);
+            Controls.Add(label4);
+            Controls.Add(txtKQ);
             Controls.Add(btnChia);
             Controls.Add(btnNhan);
             Controls.Add(btnTru);
@@ -147,5 +167,7 @@
         private Label label3;
         private Label label2;
         private Label label1;
+        private TextBox txtKQ;
+        private Label label4;
     }
 }
