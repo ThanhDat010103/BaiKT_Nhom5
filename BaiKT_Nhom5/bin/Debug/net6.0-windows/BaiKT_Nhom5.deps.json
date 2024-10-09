@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BaiKT_Nhom5/1.0.0": {
+        "runtime": {
+          "BaiKT_Nhom5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiKT_Nhom5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

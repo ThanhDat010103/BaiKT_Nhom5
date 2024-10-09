@@ -58,6 +58,7 @@
             btnNhan.TabIndex = 9;
             btnNhan.Text = "x";
             btnNhan.UseVisualStyleBackColor = true;
+            btnNhan.Click += btnNhan_Click;
             // 
             // btnTru
             // 
