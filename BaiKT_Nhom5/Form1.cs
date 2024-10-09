@@ -7,6 +7,6 @@ namespace BaiKT_Nhom5
             InitializeComponent();
         }
 
-        
+
     }
 }
