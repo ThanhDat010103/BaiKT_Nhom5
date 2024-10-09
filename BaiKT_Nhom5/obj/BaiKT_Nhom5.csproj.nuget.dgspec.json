@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lesson\\Công cụ và môi trường\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj": {}
+    "D:\\Git\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj": {}
   },
   "projects": {
-    "D:\\lesson\\Công cụ và môi trường\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj": {
+    "D:\\Git\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lesson\\Công cụ và môi trường\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj",
+        "projectUniqueName": "D:\\Git\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj",
         "projectName": "BaiKT_Nhom5",
-        "projectPath": "D:\\lesson\\Công cụ và môi trường\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj",
-        "packagesPath": "C:\\Users\\THUONG\\.nuget\\packages\\",
-        "outputPath": "D:\\lesson\\Công cụ và môi trường\\BaiKT_Nhom5\\BaiKT_Nhom5\\obj\\",
+        "projectPath": "D:\\Git\\BaiKT_Nhom5\\BaiKT_Nhom5\\BaiKT_Nhom5.csproj",
+        "packagesPath": "C:\\Users\\haitr\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\BaiKT_Nhom5\\BaiKT_Nhom5\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\THUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\haitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
